@@ -3,6 +3,8 @@
 
 ### Step 1: Data Collection
 
+Data yang digunakan merupakan kumpulan dataset pengukuran kabel optic menggunakan OTDS yang diperoleh dari : https://www.kaggle.com/datasets/johannesreber/otdr-trace-training-data/data
+
 Perbandingan Data General dengan Data KeyEvent:
 
 Data 1
