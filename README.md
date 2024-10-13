@@ -4,6 +4,7 @@
 ### Step 1: Data Collection
 
 Perbandingan Data General dengan Data KeyEvent:
+
 Data 1
 ![image](https://github.com/user-attachments/assets/93d66e6f-278d-4cb3-9f46-4362e7f3fe8f)
 
