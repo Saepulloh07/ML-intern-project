@@ -12,3 +12,5 @@ Data 2
 
 Data 3
 ![image](https://github.com/user-attachments/assets/8b11dd0c-1e10-4b30-b721-40dd1cfe9789)
+
+Terjadi perubahan yang tidak begitu signifikan pada setiap Event
