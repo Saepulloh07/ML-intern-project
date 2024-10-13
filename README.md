@@ -17,3 +17,30 @@ Data 3
 ![image](https://github.com/user-attachments/assets/8b11dd0c-1e10-4b30-b721-40dd1cfe9789)
 
 Terjadi perubahan yang tidak begitu signifikan pada setiap Event
+
+###Pada dataset :2022_06_01_1625_275ns_60sec_no_3.sor
+
+Menampilkan visualisasi Tracedata sebagai berikut:
+![image](https://github.com/user-attachments/assets/7df6fb1c-42db-47ee-b2de-6faf1c18f097)
+
+Keterangan:
+
+Mapping Label Encoding pada kolom 'type':
+0E9999LS {auto} loss/drop/gain: 0
+0F9999LS {auto} loss/drop/gain: 1
+1F9999LS {auto} reflection: 2
+
+   event  distance  splice_loss  refl_loss  slope  Pulse Width    type 
+0      1     0.000        0.000    -60.821  0.000        275.0     2
+1      2    10.987        0.111      0.000  0.196        275.0     1
+2      3    12.005        0.000      0.000  0.191        275.0     0
+3      4    13.529        0.000    -61.644  0.000        275.0     2
+4      5    14.025        0.000    -61.216  0.000        275.0     2
+5      6    15.028        0.000    -56.456  0.000        275.0     2
+6      7    16.022        0.000    -58.567  0.000        275.0     2
+7      8    16.088        0.000    -66.083  0.000        275.0     2
+8      9    17.016        0.000    -55.054  0.000        275.0     2
+9     10    18.013        0.000    -51.892  0.000        275.0     2
+
+Maka diperoleh tracedata sebagai berikut:
+![image](https://github.com/user-attachments/assets/557bd33c-3d9b-4e89-ae64-2eb897432c10)
