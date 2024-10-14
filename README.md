@@ -18,7 +18,7 @@ Data 3
 
 Terjadi perubahan yang tidak begitu signifikan pada setiap Event
 
-###Pada dataset : RFTS Port 05.sor
+### Pada dataset : RFTS Port 05.sor
 
 Menampilkan visualisasi Tracedata sebagai berikut:
 ![image](https://github.com/user-attachments/assets/f009274a-03a0-44d7-839d-f15aabde7948)
@@ -26,10 +26,10 @@ Menampilkan visualisasi Tracedata sebagai berikut:
 Keterangan:
 
 Mapping Label Encoding pada kolom 'type':
-0F9999LS {auto} loss/drop/gain: 0
-1E9999LS {auto} reflection: 1
-1F99992P [unknown type 1F99992P]: 2
-1F9999LS {auto} reflection: 3
+* 0F9999LS {auto} loss/drop/gain: 0
+* 1E9999LS {auto} reflection: 1
+* 1F99992P [unknown type 1F99992P]: 2
+* 1F9999LS {auto} reflection: 3
 
 | event | distance | splice_loss | refl_loss | Attenuation_slope | Pulse Width | Fiber Length (km) | Wavelength (nm) | Noise Floor | Averaging Time (sec) | type |
 |-------|----------|-------------|-----------|-------------------|-------------|-------------------|-----------------|-------------|----------------------|------|
