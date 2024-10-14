@@ -70,5 +70,15 @@ Keterangan:
 
 Grafik ini menunjukkan distribusi sinyal dan kehilangan sepanjang serat optik. Secara keseluruhan, terdapat beberapa titik sambungan dan pantulan yang menimbulkan penurunan sinyal.
 
+## Menerapkan model anomaly untuk menentukan warning
+Melakukan deteksi anomali pada data intensitas sinyal menggunakan model Isolation Forest. Pertama, data disalin dari variabel df_selisih, dan event pertama diabaikan untuk fokus pada data yang lebih relevan. Kemudian, dua kolom terkait, yaitu Signal_Intensity (dB) dan Intensity Difference, diambil untuk pelatihan model. Model Isolation Forest dilatih dengan asumsi bahwa 5% dari data adalah anomali. Setelah model dilatih, data yang terdeteksi sebagai anomali diberi label, dan data tersebut ditampilkan.
+
+Anomali terdeteksi:
+| event | distance | Signal_Intensity (dB) | Intensity Difference |
+|-------|----------|-----------------------|----------------------|
+| 8     | 12.933   | 22.87908              | -1.96098             |
+
+![image](https://github.com/user-attachments/assets/3fdebb45-2163-4a2c-a7ae-6793434ceac9)
+
 
 
