@@ -80,5 +80,5 @@ Anomali terdeteksi:
 
 ![image](https://github.com/user-attachments/assets/3fdebb45-2163-4a2c-a7ae-6793434ceac9)
 
-Source : https://colab.research.google.com/drive/1Ip9ZGmr_HS8LxcARgs-ZnI3cfbDsv0Um?usp=sharing
+
 
